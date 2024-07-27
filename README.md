@@ -1,4 +1,4 @@
-# JOGO VELHA EM APK
+# JOGO DA VELHA EM APK
 👨‍🏫JOGO DA VELHA FEITO NO ANDROID STUDIO EM KOTLIN.
 
 <img src="FOTO.png" align="center" width="500"> <br>
